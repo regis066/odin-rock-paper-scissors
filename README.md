@@ -1,2 +1,4 @@
-# odin-rock-paper-scissors
-The Odin Project: Rock Paper Scissors
+
+# Project: Rock Paper Scissors
+
+This is a Rock Paper Scissors game where the use plays with the computer.
